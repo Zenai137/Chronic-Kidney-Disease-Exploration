@@ -1,2 +1,3 @@
 # Chronic-Kidney-Disease-Prediction
-Prediction of Chronic Kidney Disease using machine learning models.
+Exploratory Data Analysis of Chronic Kidney Disease using Python
+Predictive Data Analysis of Chronic Kidney Disease using R.
