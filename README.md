@@ -1,2 +1,2 @@
 # Chronic-Kidney-Disease-Exploration
-Exploratory Data Analysis of Chronic Kidney Disease using Python.
+Data Preparation and Exploratory Data Analysis of Chronic Kidney Disease using Python.
